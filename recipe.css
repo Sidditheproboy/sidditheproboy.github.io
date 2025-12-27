@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+body{
+    width: 450px;
+    border: 20px solid rgb(245, 240, 217);
+    border-radius: 67px;
+    padding: 15px 35px;
+    margin : 25px auto
+}
+
+img{
+    width: 100%;
+    border-radius: 40px;
+
+}
+
+h1 , h2 {
+    font-family: "Quicksand", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    border-top: 1px dotted gray;
+    border-bottom: 1px dotted rgb(128, 128, 128);
+    padding: 5px 0;
+
+
+
+}
+
+ul{
+    font-family: "Quicksand", sans-serif;
+    list-style: circle;
+}
+ol{
+    font-family: "Quicksand", sans-serif;
+    
+
+
+}
